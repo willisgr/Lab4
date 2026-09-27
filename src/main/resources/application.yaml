@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Lab4
+  datasource:
+    url: jdbc:mysql://localhost:3306/mydb?createDatabaseIfNotExist=true
+    username: root
+    password: gcw101504
